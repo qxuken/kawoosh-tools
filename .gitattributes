@@ -1,1 +1,5 @@
-manifest.json text eol=lf
+*.lua text eol=lf
+*.nu text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.sha256 text eol=lf
